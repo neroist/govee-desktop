@@ -106,4 +106,4 @@ I am not affiliated, associated, authorized, endorsed by, or in any way official
 or any of its subsidiaries or its affiliates. The official Govee website can be found at https://govee.com
 and their mobile app at https://play.google.com/store/apps/details?id=com.govee.home
 
-###### Made with ❤️ with Nim and GTK
+###### Made with ❤️ with Nim and GTK4
